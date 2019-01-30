@@ -1,3 +1,8 @@
 class Person
   
-  def $FILENAME
+  def name
+    @name = name
+  end
+  
+  def name=
+    @name = name
